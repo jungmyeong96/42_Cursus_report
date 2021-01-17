@@ -15,4 +15,5 @@
 [20210106(수)](https://www.notion.so/8-putchar_fd-putstr_fd-putendl_fd-putnbr_fd-d5b6304511c5406bb0dbcfedb321ae00)  
 [20210107(목)](https://www.notion.so/9-Linked-list-1-61fe12497e9345c78cd2568c81351744)  
 [20210108(금)](https://www.notion.so/10-Linked-list-2-4f2838acc32e4632a49dbafadf61d5f9)  
-[20210111(월)](https://www.notion.so/What-is-IP-address-ea6e5ba373aa471cafbe258c77366d8b)
+[20210111(월)](https://www.notion.so/What-is-IP-address-ea6e5ba373aa471cafbe258c77366d8b)  
+[20210112(화)](https://www.notion.so/What-is-Computer-Network-96fa345d30bf4dfd8f161dd0596b14cd)  
