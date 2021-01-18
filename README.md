@@ -17,3 +17,4 @@
 [20210108(금)](https://www.notion.so/10-Linked-list-2-4f2838acc32e4632a49dbafadf61d5f9)  
 [20210111(월)](https://www.notion.so/What-is-IP-address-ea6e5ba373aa471cafbe258c77366d8b)  
 [20210112(화)](https://www.notion.so/What-is-Computer-Network-96fa345d30bf4dfd8f161dd0596b14cd)  
+[20210113(수)](https://www.notion.so/What-is-IP-address-class-30edded151b34d068b913de45dcd8b52)
